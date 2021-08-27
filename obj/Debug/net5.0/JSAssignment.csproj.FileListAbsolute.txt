@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\JSAssignment.exe
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\JSAssignment.deps.json
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\JSAssignment.runtimeconfig.json
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\JSAssignment.runtimeconfig.dev.json
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\JSAssignment.dll
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\ref\JSAssignment.dll
+C:\Users\hp\Desktop\BC\C#\JSAssignment\bin\Debug\net5.0\JSAssignment.pdb
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.AssemblyInfo.cs
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.dll
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\ref\JSAssignment.dll
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.pdb
+C:\Users\hp\Desktop\BC\C#\JSAssignment\obj\Debug\net5.0\JSAssignment.genruntimeconfig.cache
