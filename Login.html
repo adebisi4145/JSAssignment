@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="web.css"/>
+    <title>Login</title>
+</head>
+
+<body>
+    <form>
+
+        <div class="container">
+            <div>
+                <input class="css" type="name" value="" id="input3" placeholder="FirstName">
+            </div>
+            <br>
+
+            <div>
+                <input class="css" type="name" value="" id="input4" placeholder="LastName">
+            </div>
+            <br>
+
+            <div>
+                <input class="css" type="email" value="" placeholder="example@gmail.com">
+            </div>
+            <br>
+
+            <input type="radio" name="gender">Male
+            <input type="radio" name="gender">Female
+            <br><br>
+
+            <div>
+                <input class="css" type="password" value="" id="input1" placeholder="password">
+            </div>
+            <br>
+
+            <div>
+                <input class="css" type="password" value="" id="input2" placeholder="ConfirmPassword">
+            </div>
+            <br>
+            <input class="css" type="submit" onclick="myFunction()" >
+
+        </div>
+    </form>
+    <script>
+        function confirm() {
+            var password = document.getElementById("input1").value;
+            var ConfirmPassword = document.getElementById("input2").value;
+
+            if (password != ConfirmPassword) {
+                alert("Password Didn't Match");
+                return;
+            }
+            if (password == "") {
+                alert("password cant be empty");
+                return;
+            }
+
+        }
+
+        function empty() {
+            var firstName = document.getElementById("input3").value;
+            if (firstName == "") {
+                alert("firstname cant be empty");
+                return;
+            }
+        }
+        function lastname()
+        {
+            var lastname = document.getElementById("input4").value;
+            if(lastname == "")
+            {
+                alert("lastname cant be empty");
+                return;
+            }
+        }
+        function myFunction()
+        {
+            confirm();
+            empty();
+            lastname();
+        }
+    </script>
+</body>
+
+</html>
